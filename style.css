@@ -143,6 +143,7 @@ body {
 }
 
 .card-7 {
+    grid-area: card7;
     background-color: #faeee2;
     padding: 1.5rem;
     align-items: flex-start;
@@ -256,6 +257,7 @@ body {
     .card-5 {
         flex-direction: row;
         justify-content: space-between;
+        padding: 2rem;
     }
 
     .card-5 img {
@@ -275,6 +277,7 @@ body {
 
         padding: 3rem 6rem;
         gap: 2rem;
+        max-width: 1440px;
     }
 
     .card {
